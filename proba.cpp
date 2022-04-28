@@ -1,0 +1,3 @@
+void proba() {
+	int n;
+}
